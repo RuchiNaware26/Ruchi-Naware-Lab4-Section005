@@ -31,3 +31,7 @@ a{
 .underline{
     text-decoration: underline dashed;
 }
+
+.bold text{
+    font-weight: bold;
+}
