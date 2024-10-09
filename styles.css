@@ -33,5 +33,12 @@ a{
 }
 
 .bold text{
-    font-weight: bold;
+    font-weight:bold;
 }
+
+.intro{
+    font-weight: 300; 
+    color:black
+    
+}
+
